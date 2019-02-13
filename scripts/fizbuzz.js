@@ -16,5 +16,3 @@ function fizzBuzz(number) {
 		return number;
 	}
 }
-
-fizzBuzz(3);
